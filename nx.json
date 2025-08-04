@@ -42,5 +42,9 @@
       "!{projectRoot}/eslint.config.js"
     ],
     "sharedGlobals": []
-  }
+  },
+  "affected": {
+    "defaultBase": "master"
+  },
+  "nxCloudAccessToken": "MTU2ZTk0NzQtNDg5YS00NTAzLThmYTctMWFlNmI4YjlkNTQwfHJlYWQtd3JpdGU="
 }
